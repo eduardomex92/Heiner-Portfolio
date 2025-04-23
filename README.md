@@ -5,7 +5,7 @@
 
 ### 💻 Projects
 - **Snack Well E-Commerce** — A full-featured e-commerce site built with **PHP** and **MySQL**:
-- [View on GitHub](https://github.com/eduardomex92/snack-well-ecommerce.git)
+  [View on GitHub](https://github.com/eduardomex92/snack-well-ecommerce.git)
   - Dynamic product catalog with categorized listings
   - Shopping cart with add-to-cart, update quantity, and remove functionality
   - Customer registration, login, and session management
@@ -15,7 +15,7 @@
   - Order history, account updates, and testimonial system for customer engagement
 
 - **Duly Noted** — A modern **GraphQL**-powered note-taking application built with **React**, **Node.js**, and **Express**:
-- [View on GitHub](https://github.com/Lakeshore-Technical-College/duly-noted-eduardomex92.git)
+  [View on GitHub](https://github.com/Lakeshore-Technical-College/duly-noted-eduardomex92.git)
   - Create, update, archive, and delete personal notes
   - Real-time updates using GraphQL resolvers and Apollo Client
   - Includes a local JSON-based data persistence layer using the Node.js `fs` module
@@ -24,7 +24,7 @@
   - Built for educational purposes to demonstrate API queries, mutations, and clean component structure
 
 - **Budget Tracker App** — A Python application with both a **Graphical User Interface (GUI)** and **Command Line Interface (CLI)** for managing personal budgets:
-- [View on GitHub](https://github.com/eduardomex92/budget-tracker.git)
+  [View on GitHub](https://github.com/eduardomex92/budget-tracker.git)
   - Built using `tkinter`, `BreezyPythonGUI`, and `matplotlib`
   - Track income, categorize expenses, and view financial summaries
   - Automatically saves and loads user data via JSON file storage
@@ -33,7 +33,7 @@
   - Designed with object-oriented programming using custom `Category` and `BudgetTracker` classes
 
 - **Video Game Collection Tracker** — A Python console application that allows users to manage a collection of video games by:
-- [View on GitHub](https://github.com/eduardomex92/video-game-collection.git)
+  [View on GitHub](https://github.com/eduardomex92/video-game-collection.git)
   - Adding game titles, platforms, and market values
   - Storing entries in a `.txt` file
   - Loading previous data into a dictionary for tracking
@@ -41,7 +41,7 @@
   - Features a jump table menu and persistent storage
 
 - **Gaming Hub** — A responsive **Angular** web application that showcases modern game platforms and their iconic titles:
-- [View on GitHub](https://github.com/eduardomex92/gaming-hub.git)
+  [View on GitHub](https://github.com/eduardomex92/gaming-hub.git)
   - Multi-tab layout featuring Home, Platforms, and Contact sections
   - Platform view displays a curated list of recent games for each system (e.g., PlayStation, Xbox, Nintendo, PC)
   - Clicking on a game reveals a detailed overview including release date, ESRB rating, and description
